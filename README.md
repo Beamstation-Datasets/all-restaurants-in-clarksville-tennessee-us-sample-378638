@@ -1,6 +1,6 @@
 # All Restaurants in Clarksville, Tennessee, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 54 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `378638` |
 | Location | Clarksville |
 | Category | Restaurants |
-| Full dataset size | 511 records |
-| Free sample size | 51 records (9.98%) |
-| Last export | 2026-04-21T16:33:37.927174+00:00 |
+| Full dataset size | 542 records |
+| Free sample size | 54 records (9.96%) |
+| Last export | 2026-04-28T17:34:47.333546+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clarksville-tennessee-us-sample-378638/releases/download/sample-latest/beamstation_378638_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
