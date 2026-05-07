@@ -1,12 +1,12 @@
 {
-  "export_job_id": "30eb6891-ba8a-40d0-88ee-45d8b95f0766",
+  "export_job_id": "65e42429-ac84-4816-9320-3d92c2b14a1c",
   "id_short": 378638,
-  "published_at": "2026-04-28T19:09:31Z",
+  "published_at": "2026-05-07T07:10:34Z",
   "repo_name": "all-restaurants-in-clarksville-tennessee-us-sample-378638",
   "sample_asset_name": "beamstation_378638_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/378638/beamstation_378638_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 54,
-  "sample_sha256": "0c7060f99913b2ed755691e6fa223bbafa38001733e83289b925f53560ce4006",
-  "sample_size_bytes": 199997,
-  "total_records": 542
+  "sample_records": 59,
+  "sample_sha256": "b8de51be99c84097816260dfee981562ab3f1d4df8bde55eab8dd3904ba02c3a",
+  "sample_size_bytes": 221848,
+  "total_records": 593
 }
